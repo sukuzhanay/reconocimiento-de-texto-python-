@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pcd-sol-nguema-edu-marcos",
+  "private_key_id": "d8f98e7833550c9da7d0f35a509c96e12572b3f5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCrPmdLILUcOugM\nptFMRklm6pCWIu+qxRG0IQet9je3bY7WmMF4VCJGYtL3CWxRmDcIto9LVGSvLjH6\nAh7p/YIWHTBaY54KL2yfJ3G7qBFAK19k6FSVYLT2CxyPC47yAZAALY8e8IAEuJVZ\nsso0V5QOIYw8V4E9+Dl6cLR0vfU8gwe1gO+TzV9NCAnNT2bND2hfY8oxg5rd5aeG\nrGQEJ1O1f6RTL2X3VZTFGr0xFBsfiOa1imG6bmTL6jVYvTRibmoICYkQ9ENPKYbB\n+GA2NjWhUWy4lP983lCCwGQ/dfBfdSwxTopEiTUVRF3485swqn7gHCy6dG9rtChS\naVFvANGHAgMBAAECggEAAaceLqHzQVza81KYlFFi+MqJgbhSLMZHQbot4t4SuSrp\nXwy7Awbaw3Q/cYwNYRdf8Y+DnpkDAA3BirsIv2YJEDoaCdNl+/s63ZEmA7Tg1Ms5\nbDjigdNyJlsIxDjHBzXYyxT60qHW5w0kv4D1SjzyQOfOObmiZPhqiBUfrz0/jer4\nvfejXF9Hz8CQMNyw+L4pWkpoLY83jR2CvxKNqD/m1pe4P65RIVYgJRgBdkFG3D+4\nVfXFx6E4Ur0WnyL1IEr+SUC6v5ljRjL+y8Km+6GnDraeG2yQzrHd2J6JRlnhs3sK\nzvnzjjaxWnIcfA7e36+pOXVUKSJnWSFPrcTnRoYs2QKBgQDh1ziVRMlQ5cqpunGS\n30KCi0DX87pJDx6tBPjWX/RWShpA6dYO2ECXQZqRE97haIU7jXgSrdYzfQIYgN5a\nnAIjMJ1K2+Od1KWWIcs+aZC4BRZShC44f/xhkWwNwKTHi8ttvQixCgwYHBCWYFqn\nhN7lLeFGGmU7WH+XcwVxJfuneQKBgQDCHK+Oe8aXQo7VENyamh2SA8I0J9li3Sh0\nY0jRjI61X5GHE3mju63paTDzjRnezF+tccge0mmN1yDWsFI47PxymuIP4RSIZAqH\nM1lNKYplEsxylDgzEOJK56eAQVpf3Zr1/4/vxIyl834oyyEn073lRXdUDp3BjAPW\nOqETXb0A/wKBgQDAEB+/2kL3OKXVGIl0JcjTaogX3+BCN8iXzk2tSudp5xVStUrl\nTwYHXLSNwv9eZVxBXDuMbyhmm16H5jiziE/NC5AJVN3LoUe9WToW9wIrbbAhNuZ0\nCGxjsZ/aRkYcqge0aPoWTfwhGOUGbiVKqBZDg3Q9AT+sa8P+0cQECRBuyQKBgQC7\nKp28bWzXfL3shA2ypNfOawFe+O2LfmP7laApLbaM/FF+RTEMx3KxlVQ2At/nDHlU\n7FliHtDYi46GdA1UBm6EswM2/Hin6o6cPs7ksCFZw/6OnIxz8NvCDgxchqd1uGAq\nwvku3/4eJeKHwxV9KZX49DpTOqSycydf8bhOzBvqUQKBgGOsECQpzGXZVZGX+W4i\n3xuzsbHQxumLKL5MucK+IgTveKwTdGns3c7Fy1cZbcLcGvhciCHqsA/pm9r0f1cd\nOJdfgD0Y/zzOMRnIzX8rRGbY54RTORE0ZxTTs4i73lZH3NONb2T8IwOK5jaV8dp9\nfZMLKLyxWUiLfAwBdxV1UgQ/\n-----END PRIVATE KEY-----\n",
+  "client_email": "nominas-vidalaboral-service-ac@pcd-sol-nguema-edu-marcos.iam.gserviceaccount.com",
+  "client_id": "113204616153361451628",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nominas-vidalaboral-service-ac%40pcd-sol-nguema-edu-marcos.iam.gserviceaccount.com"
+}
